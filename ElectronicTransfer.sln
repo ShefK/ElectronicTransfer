@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicTransfer", "ElectronicTransfer\ElectronicTransfer.csproj", "{D57317CE-C77A-41FF-9A6F-818931CC3761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentUnitTests", "PaymentUnitTests\PaymentUnitTests.csproj", "{9ABD8C8D-C208-4312-929A-3C4B9229831B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57317CE-C77A-41FF-9A6F-818931CC3761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57317CE-C77A-41FF-9A6F-818931CC3761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57317CE-C77A-41FF-9A6F-818931CC3761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57317CE-C77A-41FF-9A6F-818931CC3761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABD8C8D-C208-4312-929A-3C4B9229831B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABD8C8D-C208-4312-929A-3C4B9229831B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABD8C8D-C208-4312-929A-3C4B9229831B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABD8C8D-C208-4312-929A-3C4B9229831B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4EE3B1D-178A-4640-9944-4727CC9D0844}
+	EndGlobalSection
+EndGlobal
